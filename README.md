@@ -14,3 +14,7 @@ After you added your token execute on discord .startup
 
 
 Problems or suggestions contatc me on github or open issue on repository!
+
+
+
+![ezgif-5-c18d7e3d8c](https://user-images.githubusercontent.com/69433258/160662221-3764b960-46fb-45ec-a071-8084162d9410.gif)
